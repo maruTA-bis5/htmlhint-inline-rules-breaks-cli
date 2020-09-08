@@ -1,0 +1,14 @@
+{
+  "name": "htmlhint-inline-rules-breaks-cli",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "htmlhint": "^0.14.1"
+  },
+  "scripts": {
+    "test": "htmlhint **/*.html"
+  },
+  "author": "Takayuki Maruyama",
+  "license": "MIT"
+}
